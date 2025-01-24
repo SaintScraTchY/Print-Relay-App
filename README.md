@@ -3,7 +3,6 @@
 
 **Print Relay Client App** is a cross-platform .NET MAUI application that connects to the self-hosted server to manage and execute print jobs. Designed to work seamlessly with the Print Relay backend, the client app enables users to access shared printers, view print queues, and submit jobs in real-time.
 
----
 
 ## 🚀 Features
 
